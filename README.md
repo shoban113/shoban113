@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shoban113
+- 👋 Hi, I’m Shoban
 - 👀 I’m interested in Data Science/Machine Learning/ Deep Learning
 - 🌱 I’m currently on my way to become a Data Analyst
 - 💞️ I’m looking to collaborate on deep learning strategies in public health/medical domains
